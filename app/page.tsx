@@ -8,9 +8,9 @@ import Image from 'next/image';
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
-      <p
+      {/* <p
         className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
-      >111</p>
+      >111</p> */}
       {/* <div
         className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"
       />
